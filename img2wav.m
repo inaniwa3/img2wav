@@ -25,4 +25,4 @@ wav = -wav + ceil(size(imgbw, 1) / 2);  % offset
 wav = wav / max(abs(wav));  % normalize ver.2
 
 % write
-wavwrite(wav, 8000, 'out.wav');
+wavwrite(wav, 4000, 'out.wav');
