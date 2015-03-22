@@ -4,7 +4,7 @@ convert a freehand waveform image to an audio file
 
 ## Screenshot
 
-upper: before
+upper: before  
 lower: after
 
 ![mov/mov.png](mov/mov.png "mov/mov.png")
